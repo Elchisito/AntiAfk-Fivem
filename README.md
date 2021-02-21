@@ -1,2 +1,0 @@
-# AntiAfk-Fivem
-AntiAfk fivem
